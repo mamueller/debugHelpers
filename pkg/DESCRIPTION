@@ -3,7 +3,7 @@ Type: Package
 Title: printouts with trace an variable names
 Version: 1.0
 Date: 2017-12-02
-Author: Markus Müller
-Maintainer:Markus Müller <markus.mueller.1.g@googlemail.com> 
+Author: Markus Mueller
+Maintainer:Markus Mueller <markus.mueller.1.g@googlemail.com> 
 Description: This package just contains some functions to do some printout debugging.
 License: GPL
